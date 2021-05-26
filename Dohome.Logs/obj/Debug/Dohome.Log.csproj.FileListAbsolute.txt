@@ -1,0 +1,60 @@
+/Volumes/aiTong-Ex/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/obj/Debug/Dohome.Log.csprojAssemblyReference.cache
+/Volumes/aiTong-Ex/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/obj/Debug/Dohome.Log.csproj.CoreCompileInputs.cache
+/Volumes/aiTong-Ex/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/obj/Debug/Dohome.Log.dll
+/Volumes/aiTong-Ex/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/obj/Debug/Dohome.Log.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/bin/Debug/NLog.config
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/bin/Debug/Dohome.Log.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/bin/Debug/Dohome.Log.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/bin/Debug/NLog.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/bin/Debug/NLog.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/obj/Debug/Dohome.Log.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/obj/Debug/Dohome.Log.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Logs/obj/Debug/Dohome.Log.csprojResolveAssemblyReference.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/bin/Debug/NLog.config
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/bin/Debug/Dohome.Log.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/bin/Debug/Dohome.Log.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/bin/Debug/NLog.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/bin/Debug/NLog.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/obj/Debug/Dohome.Log.csprojAssemblyReference.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/obj/Debug/Dohome.Log.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/obj/Debug/Dohome.Log.csproj.CopyComplete
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/obj/Debug/Dohome.Log.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Logs/obj/Debug/Dohome.Log.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\NLog.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\Dohome.Log.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\Dohome.Log.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\NLog.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\NLog.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.csproj.CopyComplete
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\NLog.config
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\Dohome.Log.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\Dohome.Log.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\NLog.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\bin\Debug\NLog.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Logs\obj\Debug\Dohome.Log.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\bin\Debug\NLog.config
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\bin\Debug\Dohome.Log.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\bin\Debug\Dohome.Log.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\bin\Debug\NLog.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\bin\Debug\NLog.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\obj\Debug\Dohome.Log.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\obj\Debug\Dohome.Log.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\obj\Debug\Dohome.Log.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\obj\Debug\Dohome.Log.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Logs\obj\Debug\Dohome.Log.pdb
+D:\do-home-api-master\Dohome.Logs\bin\Debug\NLog.config
+D:\do-home-api-master\Dohome.Logs\bin\Debug\Dohome.Log.dll
+D:\do-home-api-master\Dohome.Logs\bin\Debug\Dohome.Log.pdb
+D:\do-home-api-master\Dohome.Logs\bin\Debug\NLog.dll
+D:\do-home-api-master\Dohome.Logs\bin\Debug\NLog.xml
+D:\do-home-api-master\Dohome.Logs\obj\Debug\Dohome.Log.csproj.CoreCompileInputs.cache
+D:\do-home-api-master\Dohome.Logs\obj\Debug\Dohome.Log.csproj.CopyComplete
+D:\do-home-api-master\Dohome.Logs\obj\Debug\Dohome.Log.dll
+D:\do-home-api-master\Dohome.Logs\obj\Debug\Dohome.Log.pdb

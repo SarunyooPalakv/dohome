@@ -1,0 +1,662 @@
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/obj/Debug/Dohome.API.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/obj/Debug/Dohome.API.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/NLog.config
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/ApplicationInsights.config
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/csc.exe
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/System.Collections.Immutable.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/System.Reflection.Metadata.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/vbc.exe
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/VBCSCompiler.exe
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/roslyn/VBCSCompiler.exe.config
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.API.dll.config
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.API.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.API.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Antlr3.Runtime.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.DAL.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.Lazada.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.Log.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.Model.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/ExcelDataReader.DataSet.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/ExcelDataReader.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.Agent.Intercept.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.DependencyCollector.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.PerfCounterCollector.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.ServerTelemetryChannel.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.Web.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.WindowsServer.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.ApplicationInsights.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.IdentityModel.Logging.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.IdentityModel.Tokens.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.Web.Infrastructure.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Newtonsoft.Json.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Swashbuckle.Core.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.IdentityModel.Tokens.Jwt.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Net.Http.Formatting.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Cors.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Helpers.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Http.Cors.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Http.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Http.WebHost.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Mvc.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Optimization.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Razor.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.WebPages.Deployment.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.WebPages.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.WebPages.Razor.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/WebActivatorEx.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/WebGrease.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dapper.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/LazopSdk.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/NLog.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.DAL.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.Lazada.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.Log.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dohome.Model.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Antlr3.Runtime.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/ExcelDataReader.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/ExcelDataReader.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/ExcelDataReader.DataSet.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/ExcelDataReader.DataSet.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.DependencyCollector.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.ServerTelemetryChannel.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.Web.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.AI.WindowsServer.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.ApplicationInsights.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.IdentityModel.JsonWebTokens.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.IdentityModel.Logging.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Microsoft.IdentityModel.Tokens.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Newtonsoft.Json.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.IdentityModel.Tokens.Jwt.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.IdentityModel.Tokens.Jwt.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Net.Http.Formatting.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Helpers.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Http.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Http.Cors.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Http.WebHost.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Mvc.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Optimization.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.Razor.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.WebPages.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.WebPages.Deployment.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/System.Web.WebPages.Razor.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/Dapper.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/bin/NLog.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/obj/Debug/Dohome.API.csprojAssemblyReference.cache
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/obj/Debug/Dohome.API.csproj.CoreCompileInputs.cache
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.API/obj/Debug/Dohome.API.csproj.CopyComplete
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/obj/Debug/Dohome.API.csprojAssemblyReference.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/obj/Debug/Dohome.API.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/obj/Debug/Dohome.API.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/obj/Debug/Dohome.API.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/NLog.config
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/ApplicationInsights.config
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/csc.exe
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Collections.Immutable.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Reflection.Metadata.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/vbc.exe
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/VBCSCompiler.exe
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/VBCSCompiler.exe.config
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/csc.exe.config
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/csc.rsp
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/csi.exe
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/csi.exe.config
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/csi.rsp
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/Microsoft.Managed.EditorConfig.targets
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Buffers.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Memory.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Numerics.Vectors.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/vbc.exe.config
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/roslyn/vbc.rsp
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.API.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.API.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Antlr3.Runtime.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.DAL.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.Lazada.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.Log.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.Model.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/ExcelDataReader.DataSet.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/ExcelDataReader.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/LazopSdk.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.DependencyCollector.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.Web.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.WindowsServer.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.ApplicationInsights.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.IdentityModel.Logging.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.IdentityModel.Tokens.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.Web.Infrastructure.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Newtonsoft.Json.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Swashbuckle.Core.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.IdentityModel.Tokens.Jwt.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Net.Http.Formatting.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Cors.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Helpers.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Http.Cors.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Http.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Http.WebHost.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Mvc.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Optimization.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Razor.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.WebPages.Deployment.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.WebPages.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.WebPages.Razor.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/WebActivatorEx.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/WebGrease.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dapper.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/NLog.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.DAL.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.Lazada.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.Log.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dohome.Model.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Antlr3.Runtime.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/ExcelDataReader.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/ExcelDataReader.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/ExcelDataReader.DataSet.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/ExcelDataReader.DataSet.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.DependencyCollector.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.ServerTelemetryChannel.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.Web.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.AI.WindowsServer.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.ApplicationInsights.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.IdentityModel.JsonWebTokens.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.IdentityModel.Logging.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Microsoft.IdentityModel.Tokens.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Newtonsoft.Json.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.IdentityModel.Tokens.Jwt.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.IdentityModel.Tokens.Jwt.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Net.Http.Formatting.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Helpers.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Http.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Http.Cors.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Http.WebHost.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Mvc.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Optimization.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.Razor.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.WebPages.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.WebPages.Deployment.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/System.Web.WebPages.Razor.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/Dapper.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/bin/NLog.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.API/obj/Debug/Dohome.API.csproj.CopyComplete
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\NLog.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\ApplicationInsights.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\csc.exe
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\csc.exe.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\csc.rsp
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\csi.exe
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\csi.exe.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\csi.rsp
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.Managed.EditorConfig.targets
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Buffers.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Memory.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\vbc.exe
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\vbc.exe.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\vbc.rsp
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.API.dll.config
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.API.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.API.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Antlr3.Runtime.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.DAL.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Lazada.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Log.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Model.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.DataSet.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\LazopSdk.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.Web.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Newtonsoft.Json.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Swashbuckle.Core.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Cors.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Helpers.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.Cors.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Mvc.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Optimization.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Razor.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\WebActivatorEx.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\WebGrease.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dapper.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\NLog.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.DAL.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Lazada.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Log.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Model.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Antlr3.Runtime.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.DataSet.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.DataSet.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.Web.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Newtonsoft.Json.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Helpers.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.Cors.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Mvc.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Optimization.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Razor.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\Dapper.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\bin\NLog.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.csproj.CopyComplete
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\NLog.config
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\ApplicationInsights.config
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.API.dll.config
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.API.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.API.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Antlr3.Runtime.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.DAL.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Lazada.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Log.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.DataSet.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\LazopSdk.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.Web.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Newtonsoft.Json.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Swashbuckle.Core.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Cors.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Helpers.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.Cors.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Mvc.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Optimization.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Razor.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\WebActivatorEx.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\WebGrease.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dapper.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\NLog.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.DAL.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Lazada.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Log.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Antlr3.Runtime.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.DataSet.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\ExcelDataReader.DataSet.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.Web.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Newtonsoft.Json.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Helpers.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.Cors.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Mvc.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Optimization.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.Razor.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\Dapper.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\bin\NLog.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.API\obj\Debug\Dohome.API.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\NLog.config
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\ApplicationInsights.config
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.API.dll.config
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.API.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.API.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Antlr3.Runtime.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.DAL.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.Lazada.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.Log.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\ExcelDataReader.DataSet.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\ExcelDataReader.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\LazopSdk.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.Web.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Newtonsoft.Json.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Swashbuckle.Core.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Cors.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Helpers.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Http.Cors.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Http.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Mvc.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Optimization.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Razor.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.WebPages.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\WebActivatorEx.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\WebGrease.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dapper.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\NLog.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.DAL.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.Lazada.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.Log.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Antlr3.Runtime.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\ExcelDataReader.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\ExcelDataReader.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\ExcelDataReader.DataSet.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\ExcelDataReader.DataSet.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.Web.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Newtonsoft.Json.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Helpers.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Http.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Http.Cors.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Mvc.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Optimization.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.Razor.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.WebPages.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Dapper.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\NLog.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\obj\Debug\Dohome.API.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\obj\Debug\Dohome.API.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\obj\Debug\Dohome.API.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\obj\Debug\Dohome.API.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\obj\Debug\Dohome.API.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\netstandard.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.AppContext.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Collections.Concurrent.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Collections.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Collections.NonGeneric.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Collections.Specialized.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.ComponentModel.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.ComponentModel.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Console.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Data.Common.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.Contracts.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.Debug.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.Process.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.Tools.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Diagnostics.Tracing.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Drawing.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Dynamic.Runtime.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Globalization.Calendars.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Globalization.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Globalization.Extensions.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.Compression.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.FileSystem.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.IsolatedStorage.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.Pipes.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Linq.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Linq.Expressions.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Linq.Parallel.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Linq.Queryable.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Http.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.NameResolution.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.NetworkInformation.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Ping.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Requests.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Security.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.Sockets.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.WebSockets.Client.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Net.WebSockets.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.ObjectModel.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Reflection.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Reflection.Extensions.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Reflection.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Resources.Reader.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Resources.ResourceManager.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Resources.Writer.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.Extensions.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.Handles.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.InteropServices.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.Numerics.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.Claims.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.Principal.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Security.SecureString.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Text.Encoding.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Text.RegularExpressions.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Threading.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Threading.Overlapped.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Threading.Tasks.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Threading.Thread.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Threading.ThreadPool.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Threading.Timer.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.ValueTuple.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Xml.ReaderWriter.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Xml.XDocument.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Xml.XmlDocument.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Xml.XmlSerializer.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Xml.XPath.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\DohomeSystem.FTP.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.API\bin\DohomeSystem.FTP.pdb
+D:\do-home-api-master\Dohome.API\obj\Debug\Dohome.API.csprojAssemblyReference.cache
+D:\do-home-api-master\Dohome.API\obj\Debug\Dohome.API.csproj.CoreCompileInputs.cache
+D:\do-home-api-master\Dohome.API\obj\Debug\Dohome.API.dll
+D:\do-home-api-master\Dohome.API\obj\Debug\Dohome.API.pdb
+D:\do-home-api-master\Dohome.API\bin\NLog.config
+D:\do-home-api-master\Dohome.API\bin\ApplicationInsights.config
+D:\do-home-api-master\Dohome.API\bin\Dohome.API.dll.config
+D:\do-home-api-master\Dohome.API\bin\Dohome.API.dll
+D:\do-home-api-master\Dohome.API\bin\Dohome.API.pdb
+D:\do-home-api-master\Dohome.API\bin\Antlr3.Runtime.dll
+D:\do-home-api-master\Dohome.API\bin\Dohome.DAL.dll
+D:\do-home-api-master\Dohome.API\bin\Dohome.Lazada.dll
+D:\do-home-api-master\Dohome.API\bin\Dohome.Log.dll
+D:\do-home-api-master\Dohome.API\bin\Dohome.Model.dll
+D:\do-home-api-master\Dohome.API\bin\ExcelDataReader.DataSet.dll
+D:\do-home-api-master\Dohome.API\bin\ExcelDataReader.dll
+D:\do-home-api-master\Dohome.API\bin\LazopSdk.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.DependencyCollector.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.Web.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.WindowsServer.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.ApplicationInsights.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\do-home-api-master\Dohome.API\bin\Microsoft.Web.Infrastructure.dll
+D:\do-home-api-master\Dohome.API\bin\Newtonsoft.Json.dll
+D:\do-home-api-master\Dohome.API\bin\Swashbuckle.Core.dll
+D:\do-home-api-master\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\do-home-api-master\Dohome.API\bin\System.Net.Http.Formatting.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Cors.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Helpers.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Http.Cors.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Http.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Http.WebHost.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Mvc.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Optimization.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.Razor.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.WebPages.Deployment.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.WebPages.dll
+D:\do-home-api-master\Dohome.API\bin\System.Web.WebPages.Razor.dll
+D:\do-home-api-master\Dohome.API\bin\WebActivatorEx.dll
+D:\do-home-api-master\Dohome.API\bin\WebGrease.dll
+D:\do-home-api-master\Dohome.API\bin\Dapper.dll
+D:\do-home-api-master\Dohome.API\bin\NLog.dll
+D:\do-home-api-master\Dohome.API\bin\Dohome.DAL.pdb
+D:\do-home-api-master\Dohome.API\bin\Dohome.Lazada.pdb
+D:\do-home-api-master\Dohome.API\bin\Dohome.Log.pdb
+D:\do-home-api-master\Dohome.API\bin\Dohome.Model.pdb
+D:\do-home-api-master\Dohome.API\bin\Antlr3.Runtime.pdb
+D:\do-home-api-master\Dohome.API\bin\ExcelDataReader.pdb
+D:\do-home-api-master\Dohome.API\bin\ExcelDataReader.xml
+D:\do-home-api-master\Dohome.API\bin\ExcelDataReader.DataSet.pdb
+D:\do-home-api-master\Dohome.API\bin\ExcelDataReader.DataSet.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.DependencyCollector.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.Web.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.AI.WindowsServer.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.ApplicationInsights.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\do-home-api-master\Dohome.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\do-home-api-master\Dohome.API\bin\Newtonsoft.Json.xml
+D:\do-home-api-master\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\do-home-api-master\Dohome.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\do-home-api-master\Dohome.API\bin\System.Net.Http.Formatting.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.Helpers.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.Http.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.Http.Cors.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.Http.WebHost.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.Mvc.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.Optimization.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.Razor.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.WebPages.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.WebPages.Deployment.xml
+D:\do-home-api-master\Dohome.API\bin\System.Web.WebPages.Razor.xml
+D:\do-home-api-master\Dohome.API\bin\Dapper.xml
+D:\do-home-api-master\Dohome.API\bin\NLog.xml
+D:\do-home-api-master\Dohome.API\obj\Debug\Dohome.API.csproj.CopyComplete

@@ -1,0 +1,63 @@
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/bin/Debug/Dohome.DAL.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/bin/Debug/Dohome.DAL.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/bin/Debug/Dapper.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/bin/Debug/Dohome.Model.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/bin/Debug/Dohome.Model.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/bin/Debug/Dapper.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/obj/Debug/Dohome.DAL.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/obj/Debug/Dohome.DAL.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.DAL/obj/Debug/Dohome.DAL.csprojResolveAssemblyReference.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/bin/Debug/Dohome.DAL.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/bin/Debug/Dohome.DAL.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/bin/Debug/Dapper.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/bin/Debug/Dohome.Model.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/bin/Debug/Dohome.Model.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/bin/Debug/Dapper.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/obj/Debug/Dohome.DAL.csprojAssemblyReference.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/obj/Debug/Dohome.DAL.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/obj/Debug/Dohome.DAL.csproj.CopyComplete
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/obj/Debug/Dohome.DAL.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.DAL/obj/Debug/Dohome.DAL.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.DAL.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.DAL.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dapper.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dapper.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.csproj.CopyComplete
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.DAL.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.DAL.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dapper.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\bin\Debug\Dapper.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.DAL\obj\Debug\Dohome.DAL.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\bin\Debug\Dohome.DAL.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\bin\Debug\Dohome.DAL.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\bin\Debug\Dapper.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\bin\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\bin\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\bin\Debug\Dapper.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\obj\Debug\Dohome.DAL.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\obj\Debug\Dohome.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\obj\Debug\Dohome.DAL.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\obj\Debug\Dohome.DAL.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.DAL\obj\Debug\Dohome.DAL.pdb
+D:\do-home-api-master\Dohome.DAL\bin\Debug\Dohome.DAL.dll
+D:\do-home-api-master\Dohome.DAL\bin\Debug\Dohome.DAL.pdb
+D:\do-home-api-master\Dohome.DAL\bin\Debug\Dapper.dll
+D:\do-home-api-master\Dohome.DAL\bin\Debug\Dohome.Model.dll
+D:\do-home-api-master\Dohome.DAL\bin\Debug\Dohome.Model.pdb
+D:\do-home-api-master\Dohome.DAL\bin\Debug\Dapper.xml
+D:\do-home-api-master\Dohome.DAL\obj\Debug\Dohome.DAL.csprojAssemblyReference.cache
+D:\do-home-api-master\Dohome.DAL\obj\Debug\Dohome.DAL.csproj.CoreCompileInputs.cache
+D:\do-home-api-master\Dohome.DAL\obj\Debug\Dohome.DAL.csproj.CopyComplete
+D:\do-home-api-master\Dohome.DAL\obj\Debug\Dohome.DAL.dll
+D:\do-home-api-master\Dohome.DAL\obj\Debug\Dohome.DAL.pdb

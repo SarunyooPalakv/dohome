@@ -1,0 +1,52 @@
+/Volumes/aiTong-Ex/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/obj/Debug/Dohome.Model.csproj.CoreCompileInputs.cache
+/Volumes/aiTong-Ex/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/obj/Debug/Dohome.Model.dll
+/Volumes/aiTong-Ex/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/obj/Debug/Dohome.Model.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/bin/Debug/Dohome.Model.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/bin/Debug/Dohome.Model.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/bin/Debug/Newtonsoft.Json.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/bin/Debug/Newtonsoft.Json.xml
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/obj/Debug/Dohome.Model.dll
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/obj/Debug/Dohome.Model.pdb
+E:/BackUp from HP Omen/m.2 drive E/Freelance/DoHome/Dohome/Dohome.Model/obj/Debug/Dohome.Model.csprojResolveAssemblyReference.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/bin/Debug/Dohome.Model.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/bin/Debug/Dohome.Model.pdb
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/bin/Debug/Newtonsoft.Json.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/bin/Debug/Newtonsoft.Json.xml
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/obj/Debug/Dohome.Model.csprojAssemblyReference.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/obj/Debug/Dohome.Model.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/obj/Debug/Dohome.Model.csproj.CopyComplete
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/obj/Debug/Dohome.Model.dll
+/Users/mac/Documents/SourceCode/do-home-api/Dohome.Model/obj/Debug/Dohome.Model.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.csproj.CopyComplete
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.w\Desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\win-mac-desktop\Freelance\do-home-api\Dohome.Model\obj\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\bin\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\bin\Debug\Dohome.Model.pdb
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\obj\Debug\Dohome.Model.csprojAssemblyReference.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\obj\Debug\Dohome.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\obj\Debug\Dohome.Model.csproj.CopyComplete
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\obj\Debug\Dohome.Model.dll
+C:\Users\Kajorngiet.W\Documents\Freelance\SourceCode\dohome_api\Dohome.Model\obj\Debug\Dohome.Model.pdb
+D:\do-home-api-master\Dohome.Model\bin\Debug\Dohome.Model.dll
+D:\do-home-api-master\Dohome.Model\bin\Debug\Dohome.Model.pdb
+D:\do-home-api-master\Dohome.Model\bin\Debug\Newtonsoft.Json.dll
+D:\do-home-api-master\Dohome.Model\bin\Debug\Newtonsoft.Json.xml
+D:\do-home-api-master\Dohome.Model\obj\Debug\Dohome.Model.csproj.CoreCompileInputs.cache
+D:\do-home-api-master\Dohome.Model\obj\Debug\Dohome.Model.csproj.CopyComplete
+D:\do-home-api-master\Dohome.Model\obj\Debug\Dohome.Model.dll
+D:\do-home-api-master\Dohome.Model\obj\Debug\Dohome.Model.pdb
